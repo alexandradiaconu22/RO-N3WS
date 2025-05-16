@@ -1,6 +1,6 @@
 # RO-N3WS
 
-This repository contains code for training and using speech recognition models based on Hugging Face Transformers.
+This repository contains code for training and using speech2text models based on Hugging Face Transformers.
 
 ## Files Overview
 
